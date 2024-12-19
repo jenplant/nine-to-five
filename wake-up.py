@@ -49,8 +49,8 @@ def no():
 
 def investigate_sound():
     print_pause("You gather your courage and move closer to the sound.")
-    print_pause("The room is completely dark.)
-    print_pause("You step on a lego")
+    print_pause("The room is completely dark.")
+    print_pause("You step on a lego.")
     print("1. You screan out in pain - who gives? You are hurting!")
     print("2. You bite hard on your lip, muffling any potential noise.")
     
